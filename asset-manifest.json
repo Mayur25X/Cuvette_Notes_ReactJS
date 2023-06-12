@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cuvette_Notes_ReactJS/static/css/main.1d766016.css",
+    "main.js": "/Cuvette_Notes_ReactJS/static/js/main.d2d7cdae.js",
+    "index.html": "/Cuvette_Notes_ReactJS/index.html",
+    "main.1d766016.css.map": "/Cuvette_Notes_ReactJS/static/css/main.1d766016.css.map",
+    "main.d2d7cdae.js.map": "/Cuvette_Notes_ReactJS/static/js/main.d2d7cdae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d766016.css",
+    "static/js/main.d2d7cdae.js"
+  ]
+}
